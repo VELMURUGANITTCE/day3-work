@@ -1,8 +1,2 @@
-
-
-
-
-
-HI
-
 print("hello")
+print("hey")
